@@ -13,8 +13,7 @@
 
 
 ## Overview
-
-Klear-AgentForge is a research initiative focused on developing agentic AI capabilities through systematic post-training scaling. Our work demonstrates significant improvements in tool use and coding tasks, showcasing the effectiveness of supervised fine-tuning (SFT) and reinforcement learning (RL) for building capable agentic models.
+Our research project Klear-AgentForge focuses on developing agentic AI capabilities through systematic post-training scaling.
 
 ## Models
 ``` Coming Soon!```
