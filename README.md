@@ -13,7 +13,7 @@
 
 
 ## Overview
-Our research project Klear-AgentForge focuses on developing agentic AI capabilities through systematic post-training scaling.
+Our research project Klear-AgentForge focuses on developing agentic AI capabilities through systematic post-training scaling. We will progressively update and opensource our models, data and training recipes.
 
 ## Models
 ``` Coming Soon!```
