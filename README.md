@@ -28,7 +28,7 @@ Our research project Klear-AgentForge focuses on developing agentic AI capabilit
 | Qwen3-30A3B-2507-Instruct | 65.1 | 59.1 | 40.0 |
 | Qwen3-30A3B-2507-Thinking | 72.4 | 67.8 | 48.0 |
 | Qwen3-8B (Non-Thinking) | 60.2* | 35.7* | 12.0* |
-| Qwen3-8B (Thinking) | 68.1* | 45.2* | 25.0* |
+| Qwen3-8B (Thinking) | 68.1* | 45.2 | 25.0 |
 | xLAM-2-8B-fc-r  | 72.8 | 58.2 | 35.2 |
 | AgentScaler-8B | — | 50.2 | 42.0 |
 | **Klear-AgentForge-8B-SFT** | **66.5** | **53.0** | **32.0** |
