@@ -10,10 +10,11 @@
 
 - **2025-10-23** — Released the **Klear-AgentForge-8B-SFT** checkpoint and published the initial SFT training data. New SOTA results on SWE-bench Verifed *(~8B models)*.
 
-👉 [Klear-AgentForge-8B](https://huggingface.co/Kwai-Klear/Klear-AgentForge-8B) ·  
-[Klear-AgentForge-8B-SFT](https://huggingface.co/Kwai-Klear/Klear-AgentForge-8B-SFT) ·  
-[Training Data](https://huggingface.co/datasets/Kwai-Klear/SWE-smith-mini_swe_agent_plus-trajectories-66k) ·  
-[mini-swe-agent-plus](https://github.com/Kwai-Klear/mini-swe-agent-plus)
+
+👉 [Klear-AgentForge-8B](https://huggingface.co/Kwai-Klear/Klear-AgentForge-8B)  
+👉 [Klear-AgentForge-8B-SFT](https://huggingface.co/Kwai-Klear/Klear-AgentForge-8B-SFT)  
+👉 [Training Data](https://huggingface.co/datasets/Kwai-Klear/SWE-smith-mini_swe_agent_plus-trajectories-66k)  
+👉 [mini-swe-agent-plus](https://github.com/Kwai-Klear/mini-swe-agent-plus)
 ---
 
 
