@@ -4,11 +4,16 @@
 ---
 
 ## News
+- **2025-11-12** — Released the Klear-AgentForge-8B checkpoint and published our technical report. We present the Klear-AgentForge models, a series of agentic variants based on Qwen3, designed for complex tasks like tool use and coding. Currently, we provide two models:  
+  * **Klear-AgentForge-8B-SFT**: Trained from the Qwen3-8B base model via Supervised Fine-Tuning (SFT) on a mixture of data from various agentic tasks.  
+  * **Klear-AgentForge-8B**: Further trained from the Klear-AgentForge-8B-SFT model using reinforcement learning, followed by a model merge.
 
 - **2025-10-23** — Released the **Klear-AgentForge-8B-SFT** checkpoint and published the initial SFT training data. New SOTA results on SWE-bench Verifed *(~8B models)*.
-- 
-  👉 [Models](https://huggingface.co/Kwai-Klear/Klear-AgentForge-8B-SFT) · [Training Data](https://huggingface.co/datasets/Kwai-Klear/SWE-smith-mini_swe_agent_plus-trajectories-66k) · [mini-swe-agent-plus](https://github.com/Kwai-Klear/mini-swe-agent-plus)
 
+👉 [Klear-AgentForge-8B](https://huggingface.co/Kwai-Klear/Klear-AgentForge-8B) ·  
+[Klear-AgentForge-8B-SFT](https://huggingface.co/Kwai-Klear/Klear-AgentForge-8B-SFT) ·  
+[Training Data](https://huggingface.co/datasets/Kwai-Klear/SWE-smith-mini_swe_agent_plus-trajectories-66k) ·  
+[mini-swe-agent-plus](https://github.com/Kwai-Klear/mini-swe-agent-plus)
 ---
 
 
@@ -59,6 +64,18 @@ Our research project Klear-AgentForge focuses on developing agentic AI capabilit
 
 ## Contact
 For questions or collaborations, please open an issue in this repository.
+
+## Citation
+If you find this project is useful in your own work, please consider citing as follows:
+```
+@misc{klear_codetest,
+    title = {Klear-AgentForge: Forging Agentic Intelligence through Posttraining Scaling},
+    url = {https://github.com/Kwai-Klear/Klear-AgentForge},
+    author = {{Qi Wang, Hongzhi Zhang, Jia Fu, Kai Fu, Yahui Liu, Tinghai Zhang, Chenxi Sun, Gangwei Jiang, Jingyi Tang, Xingguang Ji, Yang Yue, Jingyuan Zhang, Fuzheng Zhang, Kun Gai, Guorui Zhou}},
+    month = {November},
+    year = {2025}
+}
+```
 
 
 ---
