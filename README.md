@@ -4,13 +4,12 @@
 ---
 
 ## News
-- **2025-11-12** — Released the Klear-AgentForge-8B checkpoint and published our technical report. We present the Klear-AgentForge models, a series of agentic variants based on Qwen3, designed for complex tasks like tool use and coding. Currently, we provide two models:  
-  * **Klear-AgentForge-8B-SFT**: Trained from the Qwen3-8B base model via Supervised Fine-Tuning (SFT) on a mixture of data from various agentic tasks.  
-  * **Klear-AgentForge-8B**: Further trained from the Klear-AgentForge-8B-SFT model using reinforcement learning, followed by a model merge.
+- **2025-11-12** — Released the **Klear-AgentForge-8B** checkpoint and published our technical report.
+- 👉 [Klear-AgentForge-8B](https://huggingface.co/Kwai-Klear/Klear-AgentForge-8B)
+- 👉 [Technical Report](https://arxiv.org/pdf/2511.05951)
 
 - **2025-10-23** — Released the **Klear-AgentForge-8B-SFT** checkpoint and published the initial SFT training data. New SOTA results on SWE-bench Verifed *(~8B models)*.
 
-- 👉 [Klear-AgentForge-8B](https://huggingface.co/Kwai-Klear/Klear-AgentForge-8B)
 - 👉 [Klear-AgentForge-8B-SFT](https://huggingface.co/Kwai-Klear/Klear-AgentForge-8B-SFT)
 - 👉 [Training Data](https://huggingface.co/datasets/Kwai-Klear/SWE-smith-mini_swe_agent_plus-trajectories-66k)
 - 👉 [mini-swe-agent-plus](https://github.com/Kwai-Klear/mini-swe-agent-plus)
@@ -21,7 +20,9 @@
 Our research project Klear-AgentForge focuses on developing agentic AI capabilities through systematic post-training scaling. We will progressively update and opensource our models, data and training recipes.
 
 ## Models
-``` Coming Soon!```
+We present the Klear-AgentForge models, a series of agentic variants based on Qwen3, designed for complex tasks like tool use and coding. Currently, we provide two models:  
+  * **Klear-AgentForge-8B-SFT**: Trained from the Qwen3-8B base model via Supervised Fine-Tuning (SFT) on a mixture of data from various agentic tasks.  
+  * **Klear-AgentForge-8B**: Further trained from the Klear-AgentForge-8B-SFT model using reinforcement learning, followed by a model merge.
 
 
 ## Evaluation results
